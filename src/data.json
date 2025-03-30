@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "element": "Mochila",
+    "img": "https://images.pexels.com/photos/732632/pexels-photo-732632.jpeg",
+    "calories": 3,
+    "weight": 5
+  },
+  {
+    "id": 2,
+    "element": "Botas",
+    "img": "https://images.pexels.com/photos/267242/pexels-photo-267242.jpeg",
+    "calories": 5,
+    "weight": 3
+  },
+  {
+    "id": 3,
+    "element": "Chaqueta",
+    "img": "https://images.pexels.com/photos/311070/pexels-photo-311070.jpeg",
+    "calories": 2,
+    "weight": 5
+  },
+  {
+    "id": 4,
+    "element": "Linterna",
+    "img": "https://images.pexels.com/photos/18678168/pexels-photo-18678168.jpeg",
+    "calories": 8,
+    "weight":1
+  },
+  {
+    "id": 5,
+    "element": "Carpa",
+    "img": "https://images.pexels.com/photos/868306/pexels-photo-868306.jpeg",
+    "calories": 3,
+    "weight":2
+  }
+]
