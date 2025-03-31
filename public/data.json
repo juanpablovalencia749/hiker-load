@@ -1,0 +1,38 @@
+
+[
+  {
+    "id": 1,
+    "element": "Barra energética",
+    "img": "https://images.pexels.com/photos/7535119/pexels-photo-7535119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "calories": 3,
+    "weight": 5
+  },
+  {
+    "id": 2,
+    "element": "Frutos secos",
+    "img": "https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "calories": 5,
+    "weight": 3
+  },
+  {
+    "id": 3,
+    "element": "Chocolate negro",
+    "img": "https://images.pexels.com/photos/6167328/pexels-photo-6167328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+   "calories": 2,
+    "weight": 5
+  },
+  {
+    "id": 4,
+    "element": "Atún enlatado",
+    "img": "https://images.pexels.com/photos/12001951/pexels-photo-12001951.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "calories": 8,
+    "weight":1
+  },
+  {
+    "id": 5,
+    "element": "Pasta deshidratada",
+    "img": "https://images.pexels.com/photos/8964240/pexels-photo-8964240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "calories": 3,
+    "weight":2
+  }
+]
